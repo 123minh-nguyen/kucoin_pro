@@ -1,0 +1,53 @@
+1. Navigation Native
+https://reactnavigation.org/docs/getting-started
+==> npm install @react-navigation/native react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view @react-navigation/stack
+==> npx pod-install ios
+
+2. Navigation Stack
+https://reactnavigation.org/docs/stack-navigator/
+
+3. Redux 
+==> npm install redux
+
+4. react redux
+==> npm install react-redux
+
+5. redux thunk
+==> npm install redux-thunk
+
+6. bluetooth BLE PLX
+==> https://github.com/Polidea/react-native-ble-plx
+
+7. Async Storage
+https://react-native-async-storage.github.io/async-storage/docs/install/
+==> npm install @react-native-async-storage/async-storage
+==> npx pod-install ios
+==> react-native link @react-native-async-storage/async-storage
+
+8. Scan QR code
+==> https://github.com/moaazsidat/react-native-qrcode-scanner
+==> Add "multiDexEnabled true" inside path 'android/app/build.gradle ==> android{} ==> defaultConfig{}'
+
+9. MD5
+==> npm install md5 
+
+10. Check box
+==> npm install @react-native-community/checkbox --save
+
+11. Status bar height
+==> npm install --save react-native-status-bar-height
+
+12. Location GPS
+==> https://github.com/react-native-geolocation/react-native-geolocation
+
+13.1. Google Maps
+==> https://github.com/react-native-maps/react-native-maps
+13.2. Google Maps direction
+==> https://github.com/bramus/react-native-maps-directions
+
+14. Check version app
+==> https://developer.aliyun.com/mirror/npm/package/react-native-appstore-version-checker/v/2.5.1
+
+15. Check network
+==> npm install @react-native-community/netinfo
+
