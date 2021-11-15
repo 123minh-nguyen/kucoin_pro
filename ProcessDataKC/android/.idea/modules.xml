@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProcessDataKC.iml" filepath="$PROJECT_DIR$/.idea/modules/ProcessDataKC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ProcessDataKC.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ProcessDataKC.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1563748523/ProcessDataKC.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1563748523/ProcessDataKC.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1168003631/ProcessDataKC.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1168003631/ProcessDataKC.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1079351159/ProcessDataKC.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1079351159/ProcessDataKC.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/309981907/ProcessDataKC.react-native-firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/309981907/ProcessDataKC.react-native-firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-70217690/ProcessDataKC.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-70217690/ProcessDataKC.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1195897290/ProcessDataKC.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1195897290/ProcessDataKC.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1891645199/ProcessDataKC.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1891645199/ProcessDataKC.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1616072167/ProcessDataKC.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1616072167/ProcessDataKC.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+com/processdatakc/ReactNativeFlipper.java
+ com.processdatakc.ReactNativeFlipper
+ com.processdatakc.ReactNativeFlipper$1
+ com.processdatakc.ReactNativeFlipper$2
+ com.processdatakc.ReactNativeFlipper$2$1
+com/processdatakc/BuildConfig.java
+ com.processdatakc.BuildConfig
+com/processdatakc/MainApplication.java
+ com.processdatakc.MainApplication
+ com.processdatakc.MainApplication$1
+com/processdatakc/MainActivity.java
+ com.processdatakc.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
