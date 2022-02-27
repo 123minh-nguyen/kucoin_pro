@@ -4,20 +4,20 @@
             "outputFile": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/Users/minhquang/.gradle/caches/transforms-2/files-2.1/11a797cebefefed665d4013bac2be5f6/core-1.2.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/minhquang/.gradle/caches/transforms-2/files-2.1/80dc6a7f174481fe25dcedc41ed68001/core-1.1.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "203",
-                        "endOffsets": "254"
+                        "endColumns": "202",
+                        "endOffsets": "253"
                     },
                     "to": {
                         "startLines": "30",
                         "startColumns": "4",
                         "startOffsets": "5682",
-                        "endColumns": "203",
-                        "endOffsets": "5881"
+                        "endColumns": "202",
+                        "endOffsets": "5880"
                     }
                 },
                 {

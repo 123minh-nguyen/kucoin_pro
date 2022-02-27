@@ -40,12 +40,12 @@
         "source": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ic_royaln_new.png"
     },
     {
-        "merged": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ic_royaln_bin.png.flat",
-        "source": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ic_royaln_bin.png"
-    },
-    {
         "merged": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ic_royaln_bin.png.flat",
+        "source": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ic_royaln_bin.png"
     },
     {
         "merged": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
@@ -56,12 +56,12 @@
         "source": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ic_royaln_support_up.png"
     },
     {
-        "merged": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ic_royaln_save.png.flat",
-        "source": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ic_royaln_save.png"
-    },
-    {
         "merged": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ic_royaln_close.png.flat",
         "source": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ic_royaln_close.png"
+    },
+    {
+        "merged": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ic_royaln_save.png.flat",
+        "source": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ic_royaln_save.png"
     },
     {
         "merged": "/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ic_royaln_home.png.flat",

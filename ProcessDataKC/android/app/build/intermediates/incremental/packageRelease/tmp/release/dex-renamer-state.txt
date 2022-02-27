@@ -1,7 +1,4 @@
-#Wed Sep 29 13:21:38 ICT 2021
-base.1=/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
-path.1=classes2.dex
+#Thu Sep 16 16:53:09 ICT 2021
 base.0=/Users/minhquang/Downloads/Project/React_Native_Project/ProcessDataKC/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
-renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex
